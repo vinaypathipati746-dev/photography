@@ -154,7 +154,7 @@ font-family: "Lato", sans-serif;
 }
 
 .section6{
-    border: 2px solid;
+    /* border: 2px solid; */
     height: 500px;
     background-image: url(./image\ copy\ 2.png);
     background-size: cover;
@@ -191,7 +191,7 @@ font-family: "Lato", sans-serif;
 }
 
 .art1{
-    border: 2px solid;
+    /* border: 2px solid; */
     height: 500px;
     background-image: url(./Snapchat-1693861927.jpg);
     background-size: cover;

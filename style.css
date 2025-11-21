@@ -1,0 +1,252 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+font-family: "Lato", sans-serif;
+}
+
+.navbar1{
+    /* border: 2px solid black; */
+    height: fit-content;
+
+}
+
+.main1{
+    /* border: 2px solid; */
+    height: fit-content;
+
+}
+.section1{
+    /* border: 2px solid; */
+    height: 400px;
+    background-size: cover;
+    background-image: url(./image.png);
+}
+.head1{
+    border: 1px solid black;
+    width: 400px;
+    margin: auto;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.head2{
+    /* border: 2px solid black; */
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    /* background-color: black;
+    color: aliceblue; */
+
+}
+.vinay{
+    /* border: 1px solid; */
+    width: fit-content;
+    margin: auto;
+}
+.para1{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: 1000px;
+    margin: auto;
+    color: #777;
+}
+
+.section3{
+    /* border: 2px solid; */
+
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    text-align: center;
+}
+
+.img1{
+    /* border: 2px solid; */
+    height: 300px;
+    width:400px ;
+    margin-top: 60px;
+}
+
+
+.head3{
+    /* border: 1px solid; */
+    height: 20px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    color: #777;
+}
+
+.article1{
+    /* border: 2px solid; */
+    height: 400px;
+    width: 450px;
+    margin-top: -400px;
+    margin-left: 600px;
+    color: #777;
+}
+
+.head4{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
+.head5{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin-left: 200px;
+}
+
+.para2{
+    font-size: 20px;
+    border: 2px solid;
+    height: fit-content;
+    width: 1000px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.section5{
+    /* border: 2px solid; */
+    height: 100px;
+    background-color: darkslategray;
+}
+.link{
+    color: black;
+}
+
+.head6{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin-left: 150px;
+    margin-top: 5px;
+    color:white;
+}
+.head7{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin-left: 400px;
+    margin-top: -45px;
+    color:white;
+}
+.head8{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin-left: 700px;
+    margin-top: -45px;
+    color:white;
+}
+.head9{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin-left: 950px;
+    margin-top: -45px;
+    color:white;
+}
+
+.section6{
+    border: 2px solid;
+    height: 500px;
+    background-image: url(./image\ copy\ 2.png);
+    background-size: cover;
+}
+.head10{
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    color: aliceblue;
+    font-size: 80px;
+
+}
+.header{
+    height: fit-content;
+    /* border: 2px solid; */
+    width: fit-content;
+    margin: auto;
+
+}
+.para3{
+    /* border: 2px solid; */
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.img3{
+    /* border: 2px solid; */
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+
+}
+
+.art1{
+    border: 2px solid;
+    height: 500px;
+    background-image: url(./Snapchat-1693861927.jpg);
+    background-size: cover;
+
+
+}
+
+.header1{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    font-size: 100px;
+    font-style: oblique;
+
+}
+
+.header2{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
+
+
+.para4{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
+
+iframe{
+    height: 100px;
+    width: 200px;
+}
+    
+footer{
+    /* border: 2px solid; */
+    height: 150px;
+    background-color: #777;
+}
+
+footer:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.para5{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    font-size: 30px;
+    font-style: unset;
+    
+}
+

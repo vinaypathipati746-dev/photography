@@ -250,3 +250,10 @@ footer:hover{
     
 }
 
+.link:hover{
+    border: 2px solid black;
+    height: fit-content;
+    width: fit-content;
+    background-color: black;
+    color: aliceblue;
+}
